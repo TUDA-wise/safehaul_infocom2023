@@ -1,5 +1,5 @@
 
-# safehaul_infocom2023 : System level simulator for IAB simulation based on Sionna #
+# safehaul_infocom2023: System level simulator for IAB simulation based on Sionna #
 
 This is a simulator for IAB self-backhauling networks operating at mmWaves. A description of this module can be found on [arXiv](https://arxiv.org/abs/2301.03201 "arXiv link").
 
