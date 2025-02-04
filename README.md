@@ -8,6 +8,7 @@
 
 ## News
 SeBaSi Simulator is used in NASA's IAB project (4 Feb 2025). 
+![alt text](https://github.com/TUDA-wise/safehaul_infocom2023/blob/main/Doc/nasa.jpg)
 
 ##  Important information
 
